@@ -2,13 +2,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vakaman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vakaman&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
-<h3> 🤝🏻 Contact me </h3>
+<h3> 📫 How to reach me </h3>
 
 <p align="center">
 <a href="https://maicol.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-maicol.dev-green?style=flat&logo=google-chrome"></a>
 <a href="https://linkedin.com/in/maicolkaiseroliveira/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@vakaman-green?style=flat&logo=linkedin"></a>
 <a href="https://stackoverflow.com/users/22402101/maicol-kaiser-oliveira?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Maicol%20Kaiser-green?style=flat&logo=stackoverflow"></a>
-<a href="mailto:maicolkaiser.oliveira@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maicolkaiser.oliveira@gmail.com-green?style=flat&logo=gmail"></a>
+<a href="mailto:maicolkaiser.oliveira@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maicolkaiser.oliveira@gmail.com-green?style=flat&logo=gmail"></a> <a href="https://www.instagram.com/maicolvk"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@maicolvk-green?style=flat&logo=instagram"></a> <a href="https://twitter.com/maicolvaka"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@vakaman-green?style=flat&logo=twitter"></a>
 </p>
 
 ```php
@@ -28,10 +28,10 @@ $myAbilities = new Life\Abilities(
     ide: ['VSCode', 'PHPStorm'],
     frameworks: ['Jquery', 'Bootstrap', 'Laravel', 'CodeIgniter'],
     database: ['SQLite', 'Redis', 'Memcached', 'PostgreSQL', 'MySql', 'Mssql'],
-    knowledge:  [   
+    knowledge:  [
                     'DNS', 'Debian', 'WSL2', 'Git', 'Gitlab CI/CD', 'Markdown',
                     'CentOS', 'Rest', 'OSPF', 'BGP', 'MPLS', 'VLAN', 'Firewall',
-                    'Docker/Docker Compose', 'Websocket', 'Ansible', 'Vagrant',  
+                    'Docker/Docker Compose', 'Websocket', 'Ansible', 'Vagrant',
                     'Zsh', 'Nginx', 'PHP-FPM', 'Jekyll', 'Memcached', 'Maillhog',
                     'Ubuntu', 'Github Actions', 'Refactoring'
                 ]
@@ -39,7 +39,7 @@ $myAbilities = new Life\Abilities(
 
 $dev = new Occupation\Developer(person: $me, abilities: $myAbilities);
 
-while($dev->hasCoffee())  
+while($dev->hasCoffee())
 {
   $dev->code();
 }
@@ -54,8 +54,6 @@ I'm Maicol 👨🏻‍💻, a 32 years old Web Developer / Network Admin from Br
     * [Design patterns](https://refactoring.guru/pt-br/design-patterns)
     * [CleanCode](https://cleancoders.com)
     * [Refactoring](https://refactoring.com/)
-- 📫 How to reach me: 
-    - [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://linkedin.com/in/maicolkaiseroliveira) [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4%"/>](https://www.instagram.com/maicolvk/) [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="4%"/>](https://twitter.com/maicolvaka) <a href="mailto:maicol.oliveira@paygo-consult.com.br"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/>
 
 
 
