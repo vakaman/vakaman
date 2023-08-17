@@ -49,7 +49,7 @@ while($dev->hasCoffee())
 ---
 I'm Maicol 👨🏻‍💻, a 32 years old Web Developer / Network Admin from Brazil.
 
-- 🔭 I’m currently working on [C6 Bank](https://c6bank.com.br) as Outsourcing, but i also work for [Deliver IT](http://deliverit.com.br/).
+- 🔭 I am currently working at [C6 Bank](https://c6bank.com.br) as an Outsourcing, but I also work for  [Deliver IT](http://deliverit.com.br/), and I have my own company  [DumpTech](https://dump.tec.br/), which I am very proud of
 - 🌱 I’m currently learning:
     * [Design patterns](https://refactoring.guru/pt-br/design-patterns)
     * [CleanCode](https://cleancoders.com)
